@@ -1,0 +1,3 @@
+streamlit>=1.35 # use for application or dashboard.
+pandas>=2.0 # It is used for data processing, analysis, and manipulating files such as expenses.csv.
+matplotlib>=3.7 # It is used to visualize data using various charts or graphs
